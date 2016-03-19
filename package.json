@@ -288,7 +288,7 @@
     "browser-stdout": "^1.2.0",
     "browserify": "13.0.0",
     "coffee-script": "~1.10.0",
-    "eslint": "^2.4.0",
+    "eslint": "^1.10.3",
     "should": "~8.2.2",
     "through2": "~2.0.1"
   },
